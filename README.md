@@ -31,13 +31,13 @@ Projede HTML, CSS, ve JavaScript ile bir web arayüzü oluşturulmuş, Python'da
 
 ## Algoritmalar
 ### 1. Dijkstra Algoritması
-Graf üzerindeki iki düğüm arasındaki en kısa yolu hesaplamak için kullanılmıştır. Kuyruk yapısı ile en küçük mesafeli düğümler işlenmiştir.
+Graf üzerindeki iki düğüm arasındaki en kısa yolu hesaplamak için kullanılmıştır. Kuyruk yapısı ile en küçük mesafeli düğümler işlenmiştir. Bu algoritma, açgözlü (greedy) bir yaklaşım benimseyerek her adımda mevcut en iyi seçeneği değerlendirir. Yani, her adımda en kısa mesafeye sahip düğümü işler ve komşularının mesafelerini günceller. Bu sayede, graf üzerindeki tüm yolları tek tek incelemek yerine, yalnızca en uygun yollar işlenerek verimlilik sağlanır.
 
 ### 2. DFS (Derinlik Öncelikli Arama)
 Belirli bir düğümden başlayarak en uzun yolu bulmak için uygulanmıştır. LIFO prensibi ile çalışarak tüm yolları derinlemesine taramıştır.
 
 ### 3. İkili Arama Ağacı (BST)
-En kısa yol sonuçlarının saklanması ve işlemleri için BST kullanılmıştır. Kuyruğa ekleme ve çıkarma işlemleri verimli bir şekilde gerçekleştirilmiştir.
+En kısa yol sonuçlarının saklanması ve işlemleri için BST kullanılmıştır. Kuyruğa ekleme ve çıkarma işlemleri verimli bir şekilde gerçekleştirilmiştir. Ayrıca, ağacın elemanlarını sıralı bir şekilde görüntülemek için inorder traversal kullanılmıştır. Bu, veri yapısındaki düğümlerin düzenli bir şekilde erişilmesini sağlamıştır.
 
 ## Kullanım Talimatları
 1. **Veri Yükleme**: Excel dosyasındaki veri, Python betiği ile okunur ve graf oluşturulur.
