@@ -1,5 +1,7 @@
 # Proje: Akademik Veri Seti ile Graf Analizleri
 
+![Ekran görüntüsü 2025-01-04 042530](https://github.com/user-attachments/assets/b48acf5c-3901-47ec-80ae-c858c06d3ace)
+
 
 ## Proje Hakkında
 Bu proje, yazarlar arasındaki iş birliği ilişkilerini modellemek ve bu model üzerinden veri yapısı ve algoritma konseptlerini uygulamak amacıyla geliştirilmiştir. Projede kısa yol bulma için Dijkstra, uzun yol bulma için DFS (Derinlik Öncelikli Arama) algoritmaları kullanılmıştır. Ayrıca kuyruğa ekleme ve çıkarma işlemleri bir İkili Arama Ağacı (BST) ile gerçekleştirilmiştir.
