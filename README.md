@@ -53,4 +53,4 @@ En kısa yol sonuçlarının saklanması ve işlemleri için BST kullanılmışt
 - **Abdullah Önder**: Graf yapısının oluşturulması ve modelleme.
 
 ## Lisans
-Bu proje MIT Lisansı ile lisanslanmıştır.
+Bu proje MIT Lisansı[LICENSE] ile lisanslanmıştır.
