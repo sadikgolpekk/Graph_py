@@ -6,7 +6,7 @@
 ## Proje Hakkında
 Bu proje, yazarlar arasındaki iş birliği ilişkilerini modellemek ve bu model üzerinden veri yapısı ve algoritma konseptlerini uygulamak amacıyla geliştirilmiştir. Projede kısa yol bulma için Dijkstra, uzun yol bulma için DFS (Derinlik Öncelikli Arama) algoritmaları kullanılmıştır.Algoritmalar için ek bir kütüphane kullanılmamış olup,manuel olarak isterler yazılmıştır. Ayrıca kuyruğa ekleme ve çıkarma işlemleri bir İkili Arama Ağacı (BST) ile gerçekleştirilmiştir.
 
-Projede HTML, CSS, ve JavaScript ile bir web arayüzü oluşturulmuş, Python'daki Webview API'si ile bu arayüz üzerinden algoritmalar etkileşimli olarak çalıştırılmıştır.
+Projede HTML, CSS, ve JavaScript ile python kodlarımız içinde gömülü bir web arayüzü oluşturulmuş, Python'daki Webview API'si ile bu arayüz üzerinden algoritmalar etkileşimli olarak çalıştırılmıştır.
 
 ## Kullanılan Teknolojiler ve Araçlar
 - **Python**: Algoritmaların geliştirilmesi ve veri işleme.
