@@ -1,6 +1,6 @@
 # Proje: Akademik Veri Seti ile Graf Analizleri
 
-![Image](https://github.com/user-attachments/assets/a4e63494-b760-494b-b9bf-3dc7b69f5648)
+<img width="1135" height="711" alt="Image" src="https://github.com/user-attachments/assets/9a8b5ea2-732b-4403-bcf9-5c647898d987" />
 
 
 ## Proje Hakkında
